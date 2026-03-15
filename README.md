@@ -1,6 +1,5 @@
-# Web-Development-Restaurant-Food-Recipe-Recommendation-Website-Application
+# WebDevelopmentRestaurantFoodRecipeRecommendationWebsiteApplication
 A web-based restaurant and recipe recommendation system with an interactive food quiz, designed for university students to explore recipes and nearby restaurants.
-# Discovery – Restaurant & Recipe Recommendation Website
 
 Discovery is a web-based platform designed for university students to explore new recipes and restaurants through an interactive food quiz system.
 
@@ -8,7 +7,7 @@ The system allows users to learn about dishes, discover restaurants that serve t
 
 ---
 
-# Project Overview
+## Project Overview
 
 Discovery combines a **quiz-based learning experience** with **restaurant recommendations** to make food discovery more engaging.
 
@@ -16,17 +15,17 @@ Instead of directly recommending restaurants, the system first introduces recipe
 
 ---
 
-# Key Features
+## Key Features
 
-### Interactive Food Quiz
+#### Interactive Food Quiz
 After logging into the website, users can take a quiz about a randomly selected dish.  
 Users try to guess the **name and origin of the recipe**, making the experience interactive and educational.
 
-### Restaurant Recommendation
+#### Restaurant Recommendation
 After completing the quiz, the system recommends restaurants that serve the selected recipe.  
 Users can also adjust their preferences in their account settings to discover specific recipes.
 
-### Recipe Introduction
+#### Recipe Introduction
 Users can click **View Recipe** to access detailed information about each dish, including ingredients and preparation details.
 
 This helps users:
@@ -36,7 +35,7 @@ This helps users:
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -47,7 +46,7 @@ This helps users:
 
 ---
 
-# Team Project
+## Team Project
 
 This project was developed as part of a **team-based university project**.
 
@@ -59,11 +58,11 @@ Multiple team members collaborated on:
 
 ---
 
-# My Contributions
+## My Contributions
 
 I served as both **Project Manager (PM)** and **Frontend Developer (HTML & CSS)**.
 
-### Project Manager Responsibilities
+#### Project Manager Responsibilities
 
 - Organized weekly team meetings during each PBL class
 - Coordinated task distribution among team members
@@ -81,7 +80,7 @@ Additionally:
 
 ---
 
-### Frontend Development (HTML & CSS)
+#### Frontend Development (HTML & CSS)
 
 My coding contributions included:
 
@@ -102,7 +101,7 @@ These improvements helped ensure a **consistent, modern, and user-friendly inter
 
 ---
 
-# Screenshots
+## Screenshots
 
 Main pages of the system include:
 
@@ -115,7 +114,7 @@ These pages demonstrate the interactive food quiz and restaurant recommendation 
 
 ---
 
-# Educational Purpose
+## Educational Purpose
 
 This project was developed for educational purposes as part of a **university web development course**.
 
@@ -128,7 +127,7 @@ The goal was to practice:
 
 ---
 
-# Future Improvements
+## Future Improvements
 
 Potential improvements include:
 
@@ -139,6 +138,6 @@ Potential improvements include:
 
 ---
 
-# License
+## License
 
 This project is shared for academic and portfolio purposes.
